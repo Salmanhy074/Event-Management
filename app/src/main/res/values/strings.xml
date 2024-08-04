@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Event Management</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heading_questions">
+        "Frequently Asked Questions"
+    </string>
+    <string name="large_text_questions">
+
+
+        "1. What is the purpose of the event management app?\n\n"
+        "This question aims to clarify the core functionality and benefits of the app.\n\n"
+
+        "2. How do I get started with the app?\n\n"
+        "Users often seek guidance on the initial steps to set up and use the app effectively.\n\n"
+
+        "3. What types of events can I manage using the app?\n\n"
+        "Users want to know if the app supports various types of events such as conferences, weddings, parties, etc.\n\n"
+
+        "4. Can I customize event details and settings?\n\n"
+        "Customization options are essential for users to tailor the app to their specific event needs.\n\n"
+
+        "5. Does the app offer features for ticketing and registration?\n\n"
+        " No, ticketing and registration functionalities are crucial for managing attendee logistics.\n\n"
+
+        "6. How can I invite and communicate with attendees through the app?\n\n"
+        "Users need to understand how they can efficiently communicate event details and updates to attendees.\n\n"
+
+        "7. Is there a feature for creating and managing event schedules?\n\n"
+        "A clear schedule is vital for any event, so users want to know if they can create and manage schedules within the app.\n\n"
+
+        "8. How secure is the app in terms of handling sensitive event information?\n\n"
+        "Users are concerned about the security of their event data, so they often ask about the app's security measures.\n\n"
+
+        "9. Is the app available on multiple platforms (iOS, Android, web)?\n\n"
+        "Accessibility across different platforms is important for users, so they inquire about the app's availability. This app is for only Android\n\n"
+
+        "10. Is there customer support available if I encounter issues?\n\n"
+        "Knowing that there's reliable customer support can provide users with peace of mind, especially during critical event planning stages.\n\n\n\n"
+
+    </string>
+
+
+    <string name="about_us">
+        "About Us"
+    </string>
+
+
+    <string name="large_text_aboutUs">
+
+
+    "Welcome to Event Management App, where we believe that every event is a story waiting to be told and  every event is an opportunity to create something extraordinary. Here some key features of the app.\n\n"
+
+    "-> Founded with a passion for seamless event experiences, Event Management App is your trusted companion in crafting unforgettable moments. Whether you're planning a corporate conference, a wedding celebration, or a community gathering, our platform is designed to simplify every step of the event planning process.\n\n"
+
+    "-> At Event Management App, we understand the complexities involved in organizing events of all sizes.\n\n"
+
+    "-> By integrating the security and chat features into your event management app, you can enhance the user experience while prioritizing data security and privacy.\n\n"
+
+    "-> Notify users of new messages and updates using push notifications to ensure timely communication.\n\n"
+
+    "-> Provide read receipts or delivery confirmation to indicate when messages have been successfully sent and read.\n\n"
+
+    "-> Implement real-time messaging functionality to allow event planners and users to communicate instantly.\n\n"
+
+    "-> If your app collects personal data from users in the EU, ensure compliance with the General Data Protection Regulation (GDPR) by obtaining user consent, providing data transparency, and enabling data portability and erasure.\n\n"
+
+    "-> Implement end-to-end encryption for in-app messaging and communication between event planners and attendees to protect the privacy of messages.\n\n"
+
+    "-> Encrypt sensitive data stored on the device or server to protect it from unauthorized access in case of a data breach.\n\n"
+
+    "-> Use HTTPS to encrypt data transmitted between the app and the server to prevent eavesdropping and data tampering.\n\n"
+
+    "-> Role-based access control: Assign different roles to users (e.g., event planners, attendees) and restrict access to features based on these roles.\n\n"
+
+    "-> But Event Management App is more than just a software solution – it's a community of passionate individuals united by a common goal: to bring people together through the magic of events. We're here to support you every step of the way, offering expert guidance, personalized assistance, and a wealth of resources to help you turn your vision into reality.\n\n"
+
+    "-> What sets us apart is our commitment to innovation and excellence. We're constantly evolving to meet the changing needs of our users, incorporating cutting-edge technologies and industry best practices into our platform. Whether you're a seasoned event planner or a first-time organizer, you can trust Event Management App to empower you with the tools and resources you need to succeed.\n\n\n\n"
+
+    </string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+
+</resources>

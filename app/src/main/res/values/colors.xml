@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="myRadioButtonColor">#FF5733</color>
+    <color name="navigationBarColor">@color/white</color>
+    <color name="lavender">#58D4CA</color>
+    <color name="app_theme_color">#58D4CA</color>
+
+
+</resources>

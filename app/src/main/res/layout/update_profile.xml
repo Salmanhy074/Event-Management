@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="20dp"
+    android:paddingBottom="11dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update Profile"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="30dp"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        tools:ignore="HardcodedText"/>
+
+
+    <EditText
+        android:id="@+id/editProfileName"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:inputType="textAutoComplete"
+        android:hint="Enter Name"
+        android:background="@drawable/round_edit_tetx"
+        android:drawableStart="@drawable/profile_icon"
+        android:drawablePadding="8dp"
+        android:padding="13dp"
+        android:textSize="18sp"
+        android:autofillHints="name"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/editProfileNumber"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="30dp"
+        android:inputType="numberSigned"
+        android:maxLength="11"
+        android:hint="Enter Number"
+        android:background="@drawable/round_edit_tetx"
+        android:drawableStart="@drawable/contact"
+        android:drawablePadding="8dp"
+        android:padding="13dp"
+        android:textSize="18sp"
+        android:autofillHints="location"
+        tools:ignore="HardcodedText,TextFields" />
+
+
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/profileUpdateButton"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginVertical="30dp"
+        android:backgroundTint="@color/lavender"
+        android:text="Update Profile"
+        android:padding="13dp"
+        app:cornerRadius="10dp"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

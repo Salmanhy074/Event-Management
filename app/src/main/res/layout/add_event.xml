@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="20dp"
+    android:paddingBottom="11dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register an Event"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="30dp"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        tools:ignore="HardcodedText"/>
+
+
+    <EditText
+    android:id="@+id/edtName"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:inputType="textAutoComplete"
+        android:hint="Event name"
+        android:background="@drawable/round_edit_tetx"
+        android:drawableStart="@drawable/event_available_24"
+        android:drawablePadding="8dp"
+        android:padding="13dp"
+        android:textSize="18sp"
+        android:autofillHints="name"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/edtNumber"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="30dp"
+        android:inputType="textPostalAddress"
+        android:hint="Enter location data"
+        android:background="@drawable/round_edit_tetx"
+        android:drawableStart="@drawable/add_location_24"
+        android:drawablePadding="8dp"
+        android:padding="13dp"
+        android:textSize="18sp"
+        android:autofillHints="location"
+        tools:ignore="HardcodedText,TextFields" />
+
+    <EditText
+        android:id="@+id/edtDate"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="30dp"
+        android:hint="Select Date"
+        android:textColor="@color/black"
+        android:background="@drawable/round_edit_tetx"
+        android:drawablePadding="8dp"
+        android:padding="13dp"
+        android:textSize="18sp"
+        app:drawableStartCompat="@drawable/date"
+        tools:ignore="Autofill,HardcodedText,TextFields"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+
+    <EditText
+        android:id="@+id/edtTime"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="30dp"
+        android:hint="Select Time"
+        android:textColor="@color/black"
+        android:background="@drawable/round_edit_tetx"
+        android:drawablePadding="8dp"
+        android:padding="13dp"
+        android:textSize="18sp"
+        tools:ignore="HardcodedText,TextFields"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        app:drawableStartCompat="@drawable/access_time_24"
+        android:importantForAutofill="no" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnAdd"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginVertical="30dp"
+        android:backgroundTint="@color/lavender"
+        android:text="Add"
+        android:padding="13dp"
+        app:cornerRadius="10dp"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
