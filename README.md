@@ -1,7 +1,8 @@
 # 📅 Event Management System
 ![GitHub Repo views](https://komarev.com/ghpvc/?username=Salmanhy074&label=Repo%20views&color=blue&style=flat-square)
 
-Hey everyone, it’s **MUHAMMAD SALMAN** here!
+Hey everyone, it’s 「 ✦ **MUHAMMAD SALMAN** ✦ 」 here!
+
 
 I'm excited to introduce our Event Management System, developed with Java and XML to offer a sleek and efficient user experience. This comprehensive Android application simplifies event management through its well-designed modules for event creation, attendee management, and event administration.
 
