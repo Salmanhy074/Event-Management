@@ -59,8 +59,8 @@ The Event Management System provides a powerful and user-friendly solution for m
  
 ## Technologies Used
 
-- **Frontend**: XML
-- **Backend**: Java
+- **XML**
+- **Java**
 - **Database**: Firebase
 - **Authentication**: Firebase Authentication
 - **Storage**: Firebase Storage
