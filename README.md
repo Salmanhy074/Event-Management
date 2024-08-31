@@ -9,6 +9,9 @@ Users can seamlessly log in, view upcoming events, update their profiles, and en
 
 **If you find this project helpful or interesting, please consider starring the repository on GitHub! I appreciate your support.**
 
+APK File: Download the latest APK file of this project and provide feedback 😃.
+[Download the APK](https://github.com/Salmanhy074/Attendance-System/raw/master/app-debug.apk)
+
 Feel free to check out my other repositories:
 
  - [🌦️ Weather-App](https://github.com/Salmanhy074/Weather-App)
