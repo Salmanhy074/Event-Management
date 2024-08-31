@@ -12,7 +12,7 @@ Users can seamlessly log in, view upcoming events, update their profiles, and en
 APK File: Download the latest APK file of this project and provide feedback 😃.
 [Download the APK](https://github.com/Salmanhy074/Event-Management/raw/master/app-debug.apk)
 
-Feel free to check out my other repositories:
+## Feel free to check out my other repositories:
 
  - [🌦️ Weather-App](https://github.com/Salmanhy074/Weather-App)
  - [🙋🏻‍♂️ Attendance-System](https://github.com/Salmanhy074/Attendance-System/edit/master/README.md)
