@@ -3,8 +3,6 @@
 
 Hey everyone, it’s **MUHAMMAD SALMAN** here!
 
-## Overview
-
 I'm excited to introduce our Event Management System, developed with Java and XML to offer a sleek and efficient user experience. This comprehensive Android application simplifies event management through its well-designed modules for event creation, attendee management, and event administration.
 
 Users can seamlessly log in, view upcoming events, update their profiles, and engage in in-app chat. On the admin side, the system allows for effortless event uploads, updates, and deletions. Leveraging Firebase for both authentication and database management ensures secure and real-time data handling. This solution streamlines the entire event management process, enhancing both user and admin interactions with its modern interface.
