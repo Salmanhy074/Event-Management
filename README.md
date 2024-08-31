@@ -13,9 +13,9 @@ Users can seamlessly log in, view upcoming events, update their profiles, and en
 
 Feel free to check out my other repositories:
 
- - [Weather-App](https://github.com/Salmanhy074/Weather-App)
- - [Attendance-System](https://github.com/Salmanhy074/Attendance-System/edit/master/README.md)
- - [Unit-Convertor](https://github.com/Salmanhy074/Unit-Convertor)
+ - [🌦️ Weather-App](https://github.com/Salmanhy074/Weather-App)
+ - [🙋🏻‍♂️ Attendance-System](https://github.com/Salmanhy074/Attendance-System/edit/master/README.md)
+ - [🔁 Unit-Convertor](https://github.com/Salmanhy074/Unit-Convertor)
 
 ## Table of Contents
 - [👋 Introduction](#introduction)
