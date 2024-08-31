@@ -70,6 +70,8 @@ The Event Management System provides a powerful and user-friendly solution for m
 
 
 ## Screenshots
+![7](https://github.com/user-attachments/assets/829d94b3-bb35-4a22-9ede-7efb8ecb2a8d)
+![6](https://github.com/user-attachments/assets/5903078f-6b5a-44a7-a550-66334a692746)
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/a798ca81-aea9-448e-9f63-4ca1c423ca82" alt="Screenshot 1" width="200" style="display:inline-block; margin: 5px;">
@@ -77,8 +79,8 @@ The Event Management System provides a powerful and user-friendly solution for m
     <img src="https://github.com/user-attachments/assets/a10c328b-d23d-4584-a18d-1f8caccd2e78" alt="Screenshot 3" width="200" style="display:inline-block; margin: 5px;">
     <img src="https://github.com/user-attachments/assets/a3d94911-cc0d-4c78-a1a8-d797553039a2" alt="Screenshot 4" width="200" style="display:inline-block; margin: 5px;">
     <img src="https://github.com/user-attachments/assets/ec6614d7-7954-44a5-831a-904083cd0d97" alt="Screenshot 5" width="200" style="display:inline-block; margin: 5px;">
-    <img src="https://github.com/user-attachments/assets/e605e242-122d-40fb-91c3-54ac1613384f" alt="Screenshot 6" width="200" style="display:inline-block; margin: 5px;">
-    <img src="https://github.com/user-attachments/assets/d4eba594-5dde-4ac3-b3bf-b17f9e8768a3" alt="Screenshot 7" width="200" style="display:inline-block; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/829d94b3-bb35-4a22-9ede-7efb8ecb2a8d" alt="Screenshot 7" width="200" style="display:inline-block; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/5903078f-6b5a-44a7-a550-66334a692746" alt="Screenshot 6" width="200" style="display:inline-block; margin: 5px;">
     <img src="https://github.com/user-attachments/assets/aa95cae3-12e6-4763-be19-c447715f01d3" alt="Screenshot 8" width="200" style="display:inline-block; margin: 5px;">
     <img src="https://github.com/user-attachments/assets/caf64229-0125-44f0-8e61-7988e315346f" alt="Screenshot 10" width="200" style="display:inline-block; margin: 5px;">
     <img src="https://github.com/user-attachments/assets/e579f07b-04fd-4ccf-a1ec-d2a547c07f83" alt="Screenshot 11" width="200" style="display:inline-block; margin: 5px;">
