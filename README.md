@@ -72,7 +72,7 @@ The Event Management System provides a powerful and user-friendly solution for m
 ## Screenshots
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/a798ca81-aea9-448e-9f63-4ca1c423ca82" alt="Screenshot 1" width="200" style="display:inline-block; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/a798ca81-aea9-448e-9f63-4ca1c423ca82" alt="Screenshot 1" width="200" height="100" style="display:inline-block; margin: 5px;">
     <img src="https://github.com/user-attachments/assets/1ba681c5-2636-4945-91b1-6aecbf11cd36" alt="Screenshot 2" width="200" style="display:inline-block; margin: 5px;">
     <img src="https://github.com/user-attachments/assets/a10c328b-d23d-4584-a18d-1f8caccd2e78" alt="Screenshot 3" width="200" style="display:inline-block; margin: 5px;">
     <img src="https://github.com/user-attachments/assets/a3d94911-cc0d-4c78-a1a8-d797553039a2" alt="Screenshot 4" width="200" style="display:inline-block; margin: 5px;">
